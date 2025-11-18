@@ -1,0 +1,74 @@
+[
+  {
+    "prompt": "1. Flow : River :: Stagnant : ?",
+    "options": ["Rain", "Stream", "Canal", "Pool"],
+    "correct": "D",
+    "image": null
+  },
+  {
+    "prompt": "2. Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",
+    "options": ["7", "10", "12", "13"],
+    "correct": "B",
+    "image": null
+  },
+  {
+    "prompt": "3. Statements:\\n   All green are blue.\\n   All blue are white.\\nConclusions:\\n   1. Some blue are green.\\n   2. Some white are green.\\n   3. Some green are not white.\\n   4. All white are blue.",
+    "options": ["Only (1) and (2)", "Only (1) and (3)", "Only (1) and (4)", "Only (2) and (4)"],
+    "correct": "A",
+    "image": null
+  },
+  {
+    "prompt": "4. 123 : 13^2 :: 235 : ?",
+    "options": ["23^2", "35^2", "25^3", "25^2"],
+    "correct": "C",
+    "image": null
+  },
+  {
+    "prompt": "5. Look at this series: 53, 53, 40, 40, 27, 27, ... What number should come next?",
+    "options": ["12", "14", "27", "53"],
+    "correct": "B",
+    "image": null
+  },
+  {
+    "prompt": "6. Statements:\\n   All the locks are keys.\\n   All the keys are bats.\\n   Some watches are bats.\\nConclusions:\\n   1. Some bats are locks.\\n   2. Some watches are keys.\\n   3. All the keys are locks.",
+    "options": ["Only (1) and (2)", "Only (1)", "Only (2)", "Only (1) and (3)"],
+    "correct": "B",
+    "image": null
+  },
+  {
+    "prompt": "7. Glove : Hand",
+    "options": ["Socks : Feet", "Tie : Shirt", "Neck : Collar", "Coat : Pocket"],
+    "correct": "A",
+    "image": null
+  },
+  {
+    "prompt": "8. Look at this series: V, VIII, XI, XIV, __, XX, ... What number should fill the blank?",
+    "options": ["IX", "XXIII", "XV", "XVII"],
+    "correct": "D",
+    "image": null
+  },
+  {
+    "prompt": "9. Statements:\\n   No cows is cats.\\n   All the dogs are cats.\\nConclusions:\\n   1. No cow is dog.\\n   2. No dog is cat.\\n   3. Some cats are dogs.\\n   4. All the cows are dogs.",
+    "options": ["Only (2) and (4)", "Only (1) and (3)", "Only (3) and (4)", "Only (2) and (3)"],
+    "correct": "D",
+    "image": null
+  },
+  {
+    "prompt": "10. 'Ophthalmia' is related to 'Eye' in the same way as 'Rickets' is related to:",
+    "options": ["Kidney", "Nose", "Heart", "Bone"],
+    "correct": "C",
+    "image": null
+  },
+  {
+    "prompt": "11. Look at this series: VI, 10, V, 11, __, 12, III, ... What number should fill the blank?",
+    "options": ["2", "IV", "IX", "14"],
+    "correct": "B",
+    "image": null
+  },
+  {
+    "prompt": "12. Statements:\\n   Some envelops are gums.\\n   Some gums are seals.\\n   Some seals are adhesives.\\nConclusions:\\n   1. Some envelopes are seals.\\n   2. Some gums are adhesives.\\n   3. Some adhesives are seals.\\n   4. Some adhesives are gums.",
+    "options": ["Only (3)", "Only (1)", "Only (2)", "Only (4)"],
+    "correct": "A",
+    "image": null
+  }
+]
